@@ -19,9 +19,9 @@ Demo: 7 sections and 20 cards. Links and contact details are placeholders.
 
 ## Screenshots
 
-![Home](localhost_5173_%28Nest%20Hub%20Max%29%20%281%29.png)
+![Home](presentation/home.png)
 
-![Resource collection](localhost_5173_%28Nest%20Hub%20Max%29%20%282%29.png)
+![Resource collection](presentation/collection.png)
 
 ## Technologies
 
